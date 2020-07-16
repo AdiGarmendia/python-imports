@@ -1,5 +1,4 @@
-from appliances import Appliance
-
+from ..appliances import Appliance
 
 def Refrigerator(Appliance):
 

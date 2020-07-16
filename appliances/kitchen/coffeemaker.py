@@ -1,3 +1,5 @@
+from ..appliances import Appliance
+
 def CoffeeMaker(Appliance):
 
     def __init__(self, color):

@@ -1,4 +1,4 @@
-
+from ..appliances import Appliance
 
 class Washer(Appliance):
 
